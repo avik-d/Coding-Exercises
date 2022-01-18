@@ -1,5 +1,7 @@
 
-The video lecture to view: https://www.youtube.com/watch?v=YK78FU5Ffjw&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=56&t=0s&ab_channel=takeUforward
+1. The video lecture to view: https://www.youtube.com/watch?v=YK78FU5Ffjw&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=56&t=0s&ab_channel=takeUforward
+2. My Solution - https://leetcode.com/problems/permutations/submissions/
+    
     
     How does this work?
     1. We create a map like data structure (freq) that helps us in picking what can be picked and is not already picked
