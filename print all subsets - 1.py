@@ -1,6 +1,7 @@
 Leetcode link - https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/796/
   1. Pick a problem and recur
   2. Don't pick an element and recur
+  3. Time complexity is O(2^n) as we can either pick an element or may not
 
 class Solution:
     def printcode(self,num,index,returnlist,cur):
