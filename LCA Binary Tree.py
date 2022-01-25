@@ -5,6 +5,9 @@
 #         self.left = None
 #         self.right = None
 
+
+#https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/submissions/
+
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
         if root is None or root is p or root is q:
