@@ -15,7 +15,6 @@
         #Base case : If we hae reached string length, done
         if len(ds) is len(nums):
             ans.append(list(ds))#Very very important - I missed this conversion to do list()
-            #print(ans)
             return
             
         for i in range(0,len(nums)):
